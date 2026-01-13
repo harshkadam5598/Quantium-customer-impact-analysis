@@ -1,7 +1,5 @@
-# Quantium-customer-impact-analysis
+# Quantium Retail Analytics Project
 Quantium customer behavior and sales impact analysis using Python
-
-Quantium Retail Analytics Project
 
 📌 **Project Overview**
 
